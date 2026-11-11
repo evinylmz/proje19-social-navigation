@@ -60,7 +60,7 @@
 5. Simülasyonu başlatın: `roslaunch social_navigation gazebo_world.launch`
 
 ---
-
+##
 ## 08. Test, Deney, Metrik ve Örnek Çıktılar
 Projenin başarısını değerlendirmek için şu metrikler kullanılacaktır:
 * **Kişisel Alan İhlali (Personal Space Intrusion):** Robotun insanlara 1.2 metreden daha fazla yaklaştığı durumların sayısı.
